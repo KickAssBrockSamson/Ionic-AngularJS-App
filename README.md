@@ -1,6 +1,8 @@
 Ionic App Base
 =====================
 
+<a href="http://kickassbrocksamson.github.io/Ionic-AngularJS-App">Link to Functional App</a>
+
 A starting project for Ionic that optionally supports using custom SCSS.
 
 ## Using this project
